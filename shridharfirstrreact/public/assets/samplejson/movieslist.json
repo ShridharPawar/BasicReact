@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"MovieName": "Black Hawk Down",
+	"Year": "2010",
+	"Genre": "Action"
+}, {
+	"id": 2,
+	"MovieName": "Pursuit of Happyness",
+	"Year": "2003",
+	"Genre": "Drama"
+}, {
+	"id": 3,
+	"MovieName": "The Pacifier",
+	"Year": "2001",
+	"Genre": "Drama"
+}]
